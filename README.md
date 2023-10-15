@@ -1,6 +1,6 @@
 # Auth0 with React, Mantine, TypeScript, and Vite
 
-This is s simple demo app for Auth0 with React, Mantine, TypeScript, and Vite.
+This is s simple demo app for Auth0 with React, Mantine, TypeScript, and Vite. It is an early iteration of the Pawesome Frontend.
 
 ---
 
